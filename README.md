@@ -1,2 +1,2 @@
-# P-34-Draw-Canvas-
-I created a drawing project. Here's my code.
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
